@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **stefano.vecchietti.99@gmail.com**
 
-- 🌐 <a href="https://vecho.me" target="_blank">My Portfolio
+- 🌐 <a href="https://vecho.me" target="_blank" >My Portfolio
 
 - ⚡ Fun fact **All my repos are private :P**
 
