@@ -3,7 +3,7 @@
 
 - [![wakatime](https://wakatime.com/badge/user/8fca1861-57a9-459a-be5d-791afb8e2fc2.svg)](https://wakatime.com/@8fca1861-57a9-459a-be5d-791afb8e2fc2)
 
-- 📫 How to reach me **stefano.vecchietti.99@gmail.com**
+- 📫 How to reach me **stefano@vecho.me**
 
 - 🌐 <a href="https://vecho.me" target="_blank" >My Portfolio
 
