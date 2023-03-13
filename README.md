@@ -7,7 +7,7 @@
 
 - 🌐 <a href="https://vecho.me" target="_blank" >My Portfolio
 
-- ⚡ Fun fact **All my repos are private :P**
+- ⚡ Fun fact **Most my repos are private :P**
   
   
 <figure><embed src="https://wakatime.com/share/@Vecho/e65d16f9-7199-41f8-aa47-298d9d08d846.svg"></embed></figure>
