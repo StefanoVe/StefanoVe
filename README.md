@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></img>, I'm Vecho</h1>
 <h3 align="center">A passionate full stack TypeScript developer from Italy 🇮🇹</h3>
 
-- [![wakatime](https://wakatime.com/badge/user/8fca1861-57a9-459a-be5d-791afb8e2fc2.svg)](https://wakatime.com/@8fca1861-57a9-459a-be5d-791afb8e2fc2) (Since Jun 2022)
+- [![wakatime](https://wakatime.com/badge/user/8fca1861-57a9-459a-be5d-791afb8e2fc2.svg)](https://wakatime.com/@8fca1861-57a9-459a-be5d-791afb8e2fc2) Since Jun 2022 + A 1000 or so hrs since Dec 2020
 
-- 📫 How to reach me **stefano@vecho.me**
+- 📫 How to reach me: **stefano@vecho.me**
 
 - 🌐 <a href="https://vecho.me" target="_blank" >My Portfolio
 
