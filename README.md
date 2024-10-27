@@ -3,7 +3,7 @@
 
 - [![wakatime](https://wakatime.com/badge/user/8fca1861-57a9-459a-be5d-791afb8e2fc2.svg)](https://wakatime.com/@8fca1861-57a9-459a-be5d-791afb8e2fc2) Since Jun 2022 + A 1000 or so hrs from Dec 2020 to May 2022
 
-- 📫 How to reach me: **stefano@vecho.me**
+- 📫 How to reach me: **https://noty.li/p/vecho**
 
 - 🌐 <a href="https://vecho.me" target="_blank" >My Portfolio
 
